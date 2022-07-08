@@ -4,5 +4,4 @@
 
 - 🔭 I’m currently chilling, making some small projects and doing nothing special atm
 - 🌱 I’m currently learning C/C++, Python, Dart
-- 📫 How to reach me: ...
 - 🐵 i love monkeys
